@@ -1,0 +1,20 @@
+In The Name Of God
+Quiz 4 - Reasons
+
+--------------------------
+9632447 ( 0 )
+
+#The uploaded answers were not what the question wanted
+
+--------------------------
+9632454 ( 70)
+standard C99 error ( -10 )
+realloc usage is wrong ( -20 ) 
+readable code ( +15 )
+--------------------------
+9634939  ( 50 )
+wrong usage of malloc ( -20 )
+realloc usage is wrong ( -20 )
+print function is not completely correct ( -5 )
+sort has some problems ( -5 )
+---------------------------

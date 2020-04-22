@@ -1,0 +1,15 @@
+1.
+
+Wrong Output -> -30
+Algorithmic Problems -> each problem -> -5
+Syntax Error ->  -100 -> Total Score = 0
+cheating -> -120 -> Total Score -> -20
+unclean Code -> -10 ( Once Only )
+Unsupported Operator -> between 40 - 100
+{
+
+Q3 -> totally -100
+OW -> -60
+
+
+}
